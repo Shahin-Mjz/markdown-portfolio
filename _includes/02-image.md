@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Fighter](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.smashbros.com%2Fassets_v2%2Fimg%2Ffighter%2Flink%2Fmain2.png&imgrefurl=https%3A%2F%2Fwww.smashbros.com%2Fen_US%2Ffighter%2F03.html&tbnid=cVxppB_5OSM_IM&vet=12ahUKEwiegt_4jM73AhXCOXoKHZVSAqEQMygSegUIARDuAQ..i&docid=D2MNh6aKiW8sAM&w=1478&h=1604&q=image%20with%20link&ved=2ahUKEwiegt_4jM73AhXCOXoKHZVSAqEQMygSegUIARDuAQ)
